@@ -10,6 +10,15 @@ Language :SQL
 Data Visualization:POWERBI
 Presentation: Power Point 
 -----------------------------------------------------
+Methadology:
+-----------------------------------------------------
+
+Most Challenging
+What You Learned
+Most Interesting
+Hardest Bug
+Enjoyed Most
+Conflicts with Teammates
 
 
 
